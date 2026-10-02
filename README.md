@@ -9,7 +9,7 @@ Most of it is self-study around perception for mobile robots: bird's-eye view, L
 | Path | What it is |
 | --- | --- |
 | `Three.js/surround-view/` | Three.js ADAS surround-view simulation, built up in four iterations (`main.js` → `main4.js`): basic scene, robot with camera cones, W/A/S/D driving, obstacle-detection HUD |
-| `OpenCv-BirdEyes/` | Perspective transform (bird's-eye view) of a test image with OpenCV `warpPerspective` |
+| `OpenCv-BirdEyes/` | Starter script for a bird's-eye view (perspective transform) experiment with OpenCV, work in progress |
 | `1_kitti_object_detection_lidar.ipynb` | Working through the KITTI 3D object detection / LiDAR–camera early-fusion tutorial from [itberrios/CV_tracking](https://github.com/itberrios/CV_tracking) |
 | `5g Technologies/`, `5G_Vienna_Robotics_UseCases.pptx` | Notes on 5G use cases for robotics |
 
